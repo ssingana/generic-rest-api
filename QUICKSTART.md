@@ -2,7 +2,7 @@ QUICKSTART - Java 11 + H2 version
 ================================
 
 Prerequisites
-- Java 11 installed
+- Java 17 installed
 - Maven installed
 
 Run the application

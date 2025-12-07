@@ -3,7 +3,7 @@ Dynamic Query Full Stack - QuickStart
 ====================================
 
 Backend:
-- Java 11, Spring Boot 2.7.12, H2 in-memory DB
+- Java 17, Spring Boot 2.7.12, H2 in-memory DB
 - GenericQueryService with:
     - Dynamic projections
     - Filters: equals, _like, _between, _inSubquery
