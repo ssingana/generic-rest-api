@@ -1,0 +1,20 @@
+.sorts {
+  max-height: 160px;
+  overflow: auto;
+  padding: 6px;
+  background: #fbfdff;
+  border: 1px solid #eef4ff;
+  margin-bottom: 6px;
+}
+
+.sort-row {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  margin: 4px 0;
+}
+
+.sort-row select,
+.sort-row input {
+  flex: 1;
+}
